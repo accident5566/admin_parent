@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 07 20:26:22 CST 2014
+http\://source.mysema.com/maven2/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1399465569518
+http\://source.mysema.com/maven2/releases/.lastUpdated=1399465570237
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1399465582623
+default-http\://repo.springsource.org/release/.lastUpdated=1399465580750
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.springsource.org/release/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:3.1.0.M1 from/to repository.springframework.maven.release (http\://repo.springsource.org/release)\: connection timed out to http\://repo.springsource.org/release/org/springframework/spring-expression/3.1.0.M1/spring-expression-3.1.0.M1.pom
